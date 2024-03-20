@@ -1,3 +1,4 @@
 console.log("Estamos aprendendo JavaScript");
-("Segunda linha. . . ");
+console.log("Segunda linha. . . ");
 console.log("Terceira linha. . .")
+console.log("Quarta linnha. . .");
